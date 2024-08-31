@@ -38,7 +38,7 @@ The Repair Shop App is an Android application designed to help users manage thei
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/repair-shop-app.git
+   git clone https://github.com/G1riChirag/RepairShop.git
 2. Open the project in Android Studio.
 
 3. Build and run the project on an Android emulator or device.
